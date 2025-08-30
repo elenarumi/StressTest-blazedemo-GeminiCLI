@@ -1,5 +1,6 @@
 
 # Análisis de Prueba de Estrés para BlazeDemo
+<img width="1280" height="800" alt="Screenshot 2025-08-30 at 15 49 13" src="https://github.com/user-attachments/assets/c4b80f39-fc62-4862-be99-fef89452ab40" />
 
 ## 1. Resumen Ejecutivo
 
